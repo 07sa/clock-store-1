@@ -1,0 +1,6 @@
+{
+  "name": "CHRONOVA — Luxury Watch E-Commerce",
+  "description": "Cinematic, motion-driven luxury timepiece e-commerce experience featuring high-horology mechanical storytelling, scroll-triggered macro breakdowns, and curated collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
